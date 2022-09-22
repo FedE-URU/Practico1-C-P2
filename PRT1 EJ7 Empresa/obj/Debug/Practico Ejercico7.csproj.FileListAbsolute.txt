@@ -1,0 +1,16 @@
+C:\Users\matia\Desktop\Practico Ejercico7\Practico Ejercico7\bin\Debug\Practico Ejercico7.exe.config
+C:\Users\matia\Desktop\Practico Ejercico7\Practico Ejercico7\bin\Debug\Practico Ejercico7.exe
+C:\Users\matia\Desktop\Practico Ejercico7\Practico Ejercico7\bin\Debug\Practico Ejercico7.pdb
+C:\Users\matia\Desktop\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\Desktop\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.exe
+C:\Users\matia\Desktop\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.pdb
+G:\Mi unidad\Programación\CEI - Analista programador\CEI 2º semestre\Programación  2\Charmander Team\Practico 1 C# CEI\Matias PRT1\Practico Ejercico7\Practico Ejercico7\bin\Debug\Practico Ejercico7.exe.config
+G:\Mi unidad\Programación\CEI - Analista programador\CEI 2º semestre\Programación  2\Charmander Team\Practico 1 C# CEI\Matias PRT1\Practico Ejercico7\Practico Ejercico7\bin\Debug\Practico Ejercico7.exe
+G:\Mi unidad\Programación\CEI - Analista programador\CEI 2º semestre\Programación  2\Charmander Team\Practico 1 C# CEI\Matias PRT1\Practico Ejercico7\Practico Ejercico7\bin\Debug\Practico Ejercico7.pdb
+G:\Mi unidad\Programación\CEI - Analista programador\CEI 2º semestre\Programación  2\Charmander Team\Practico 1 C# CEI\Matias PRT1\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.csproj.AssemblyReference.cache
+G:\Mi unidad\Programación\CEI - Analista programador\CEI 2º semestre\Programación  2\Charmander Team\Practico 1 C# CEI\Matias PRT1\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\Programación\CEI - Analista programador\CEI 2º semestre\Programación  2\Charmander Team\Practico 1 C# CEI\Matias PRT1\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Programación\CEI - Analista programador\CEI 2º semestre\Programación  2\Charmander Team\Practico 1 C# CEI\Matias PRT1\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.exe
+G:\Mi unidad\Programación\CEI - Analista programador\CEI 2º semestre\Programación  2\Charmander Team\Practico 1 C# CEI\Matias PRT1\Practico Ejercico7\Practico Ejercico7\obj\Debug\Practico Ejercico7.pdb
