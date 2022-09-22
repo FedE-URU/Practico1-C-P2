@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Progr 2 vsC\PRT1 EJ3 vectores\obj\Debug\PRT1 EJ3 vectores.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Progr 2 vsC\PRT1 EJ3 vectores\obj\Debug\PRT1 EJ3 vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Progr 2 vsC\PRT1 EJ3 vectores\obj\Debug\PRT1 EJ3 vectores.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Progr 2 vsC\PRT1 EJ3 vectores\bin\Debug\PRT1 EJ3 vectores.exe.config
+C:\Users\PC\Desktop\Progr 2 vsC\PRT1 EJ3 vectores\bin\Debug\PRT1 EJ3 vectores.exe
+C:\Users\PC\Desktop\Progr 2 vsC\PRT1 EJ3 vectores\bin\Debug\PRT1 EJ3 vectores.pdb
+C:\Users\PC\Desktop\Progr 2 vsC\PRT1 EJ3 vectores\obj\Debug\PRT1 EJ3 vectores.exe
+C:\Users\PC\Desktop\Progr 2 vsC\PRT1 EJ3 vectores\obj\Debug\PRT1 EJ3 vectores.pdb

@@ -1,0 +1,24 @@
+C:\Users\PC\Desktop\Progr 2 vsC\Alumnos\obj\Debug\Alumnos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Progr 2 vsC\Alumnos\obj\Debug\Alumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Progr 2 vsC\Alumnos\obj\Debug\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Progr 2 vsC\Alumnos\bin\Debug\Alumnos.exe.config
+C:\Users\PC\Desktop\Progr 2 vsC\Alumnos\bin\Debug\Alumnos.exe
+C:\Users\PC\Desktop\Progr 2 vsC\Alumnos\bin\Debug\Alumnos.pdb
+C:\Users\PC\Desktop\Progr 2 vsC\Alumnos\obj\Debug\Alumnos.exe
+C:\Users\PC\Desktop\Progr 2 vsC\Alumnos\obj\Debug\Alumnos.pdb
+C:\Users\Mateo\Desktop\Alumnos\bin\Debug\Alumnos.exe.config
+C:\Users\Mateo\Desktop\Alumnos\bin\Debug\Alumnos.exe
+C:\Users\Mateo\Desktop\Alumnos\bin\Debug\Alumnos.pdb
+C:\Users\Mateo\Desktop\Alumnos\obj\Debug\Alumnos.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\Alumnos\obj\Debug\Alumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\Alumnos\obj\Debug\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Alumnos\obj\Debug\Alumnos.exe
+C:\Users\Mateo\Desktop\Alumnos\obj\Debug\Alumnos.pdb
+C:\Users\matia\Desktop\Alumnos\bin\Debug\Alumnos.exe.config
+C:\Users\matia\Desktop\Alumnos\bin\Debug\Alumnos.exe
+C:\Users\matia\Desktop\Alumnos\bin\Debug\Alumnos.pdb
+C:\Users\matia\Desktop\Alumnos\obj\Debug\Alumnos.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Alumnos\obj\Debug\Alumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\Desktop\Alumnos\obj\Debug\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Alumnos\obj\Debug\Alumnos.exe
+C:\Users\matia\Desktop\Alumnos\obj\Debug\Alumnos.pdb

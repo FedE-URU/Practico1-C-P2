@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Progr 2 vsC\AUTO\bin\Debug\AUTO.exe.config
+C:\Users\PC\Desktop\Progr 2 vsC\AUTO\bin\Debug\AUTO.exe
+C:\Users\PC\Desktop\Progr 2 vsC\AUTO\bin\Debug\AUTO.pdb
+C:\Users\PC\Desktop\Progr 2 vsC\AUTO\obj\Debug\AUTO.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Progr 2 vsC\AUTO\obj\Debug\AUTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Progr 2 vsC\AUTO\obj\Debug\AUTO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Progr 2 vsC\AUTO\obj\Debug\AUTO.exe
+C:\Users\PC\Desktop\Progr 2 vsC\AUTO\obj\Debug\AUTO.pdb

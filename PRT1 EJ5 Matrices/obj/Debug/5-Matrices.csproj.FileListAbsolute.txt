@@ -1,0 +1,16 @@
+C:\Users\Mateo\source\repos\5-Matrices\5-Matrices\bin\Debug\5-Matrices.exe.config
+C:\Users\Mateo\source\repos\5-Matrices\5-Matrices\bin\Debug\5-Matrices.exe
+C:\Users\Mateo\source\repos\5-Matrices\5-Matrices\bin\Debug\5-Matrices.pdb
+C:\Users\Mateo\source\repos\5-Matrices\5-Matrices\obj\Debug\5-Matrices.csproj.AssemblyReference.cache
+C:\Users\Mateo\source\repos\5-Matrices\5-Matrices\obj\Debug\5-Matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\source\repos\5-Matrices\5-Matrices\obj\Debug\5-Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\5-Matrices\5-Matrices\obj\Debug\5-Matrices.exe
+C:\Users\Mateo\source\repos\5-Matrices\5-Matrices\obj\Debug\5-Matrices.pdb
+C:\Users\Mateo\Desktop\Projectos Visual\5-Matrices\5-Matrices\bin\Debug\5-Matrices.exe.config
+C:\Users\Mateo\Desktop\Projectos Visual\5-Matrices\5-Matrices\bin\Debug\5-Matrices.exe
+C:\Users\Mateo\Desktop\Projectos Visual\5-Matrices\5-Matrices\bin\Debug\5-Matrices.pdb
+C:\Users\Mateo\Desktop\Projectos Visual\5-Matrices\5-Matrices\obj\Debug\5-Matrices.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\Projectos Visual\5-Matrices\5-Matrices\obj\Debug\5-Matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\Projectos Visual\5-Matrices\5-Matrices\obj\Debug\5-Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Projectos Visual\5-Matrices\5-Matrices\obj\Debug\5-Matrices.exe
+C:\Users\Mateo\Desktop\Projectos Visual\5-Matrices\5-Matrices\obj\Debug\5-Matrices.pdb
